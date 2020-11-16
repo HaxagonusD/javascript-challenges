@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/indiesquidge/challenges#readme",
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
     "sinon": "^6.1.4",
     "tape": "^4.9.1"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.7"
   }
 }
